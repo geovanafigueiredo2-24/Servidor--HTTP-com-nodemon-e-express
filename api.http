@@ -1,0 +1,22 @@
+GET http://localhost:8080/cadastro
+
+
+###
+
+
+POST http://localhost:8080/clientes
+
+
+
+###
+
+
+PUT  http://localhost:8080/atualizar
+
+
+
+###
+
+
+DELETE http://localhost:8080/deletar
+
